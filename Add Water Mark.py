@@ -40,4 +40,4 @@ def watermark_pdf(input_pdf_path, watermark_text, output_pdf_path):
 
 
 if __name__ == "__main__":
-    watermark_pdf("source.pdf", "Used only for I-20 Update, BOCUSA, 2023/7/31", "result.pdf")
+    watermark_pdf("Jiaqi_phd_I20.pdf", "Used only for I-20 Update, BOCUSA, 2023/7/31", "I-20markded.pdf")
